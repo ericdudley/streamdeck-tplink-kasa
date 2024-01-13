@@ -54,7 +54,7 @@ You can either clone the javascript library or add it as a submodule to your rep
 You can get started in app.js!
 
 ```javascript
-const myAction = new Action('com.elgato.template.action');
+const myAction = new Action('com.ericdudley.streamdeck-tplink-kasa.action');
 
 /**
  * The first event fired when Stream Deck starts
